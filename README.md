@@ -1,23 +1,25 @@
-#  Nihal Butik - Stok ve Rezarvasyon Sistemi
+# 🛍️ Nihal Butik - Stok ve Rezervasyon Sistemi
 
 Java FX ile geliştirdiğim butik yönetim sistemi. Abiye kiralama, satış ve stok takibi.
 
-## Özellikler
--Ürün ve kategori yönetimi
--Müşteri takibi
--Rezervasyon sistemi
--SQLite veritabanı entegrasyonu
--Java FX arayüz
--Abiye kiralama ve satış modülü
--Stok ve envanter takibi
+## 🌟 Özellikler
 
-##Teknolojiler
--Java 17 (ana programlama dili)
--Java FX (modern kullanıcı arayüzü)
--SQLite (hafif ve taşınabilir veritabanı)
--Maven (bağımlılık yönetimi ve build aracı)
+- ✅ Ürün ve kategori yönetimi
+- ✅ Müşteri takibi  
+- ✅ Rezervasyon sistemi
+- ✅ SQLite veritabanı entegrasyonu
+- ✅ Java FX arayüz
+- ✅ Abiye kiralama ve satış modülü
+- ✅ Stok ve envanter takibi
 
-## Kurulum
+## 🛠️ Teknolojiler
+
+- **Java 17** - Ana programlama dili
+- **Java FX** - Modern kullanıcı arayüzü  
+- **SQLite** - Hafif ve taşınabilir veritabanı
+- **Maven** - Bağımlılık yönetimi ve build aracı
+
+## 📦 Kurulum
 
 ### Gereksinimler
 - JDK 17 veya üstü
@@ -29,7 +31,7 @@ Java FX ile geliştirdiğim butik yönetim sistemi. Abiye kiralama, satış ve s
 # Projeyi klonla
 git clone https://github.com/ceycey120/butik-app.git
 
-# Proje dizinine git
+# Proje dizinine git  
 cd butik-app
 
 # Bağımlılıkları yükle ve derle
